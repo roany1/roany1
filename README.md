@@ -2,6 +2,15 @@ Hi friends, I wanted to tell you that everything is working now.
 
 What did I do to install it?
 
+I have seen that people with an Apple M1 have problems installing ROOT or rather PyRoot libraries on this machine.
+
+I deal with Particle Detectors and I also deal with Cyber Security.
+I am an entrepreneur and futuristic visionary.
+
+In this Readme, I talk about how I solved installation of PyRoot libraries.
+
+
+
 if you have a version of Conda not for Apple Silicon, please delete all.
 (many python version there are)
 delete all homebrew installation for delete all file not compatible with new conda for arm64.
