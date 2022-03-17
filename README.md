@@ -4,7 +4,7 @@ What did I do to install it?
 
 I have seen that people with an "Apple M1" have problems installing ROOT or rather PyRoot libraries on this machine.
 
-I work with Particle Detectors and I also work with Cyber Security.
+I work with Particle Detectors and I work with ROOT.
 I am an entrepreneur's Technology and futuristic visionary, I m a maker technology.
 
 In this Readme, I talk about how I solved installation of PyRoot libraries.
