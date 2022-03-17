@@ -1,11 +1,11 @@
-Hi friends, I wanted to tell you that everything is working now.
+Hi friends, I wanted to tell of PyRoot from ROOT CERN Framework.
 
 What did I do to install it?
 
-I have seen that people with an Apple M1 have problems installing ROOT or rather PyRoot libraries on this machine.
+I have seen that people with an "Apple M1" have problems installing ROOT or rather PyRoot libraries on this machine.
 
-I deal with Particle Detectors and I also deal with Cyber Security.
-I am an entrepreneur and futuristic visionary.
+I work with Particle Detectors and I also work with Cyber Security.
+I am an entrepreneur's Technology and futuristic visionary, I m a maker technology.
 
 In this Readme, I talk about how I solved installation of PyRoot libraries.
 
